@@ -55,3 +55,10 @@
 # *Напоминание*
 
 # *Создание графика или таблицы*
+
+Чтобы вставить таблицу необходимо воспользоваться знаками: |---| Например:
+
+| Monday | Tuesday| Wednesday |Thursday| Friday|Saturday| Sunday|
+| ------| --------| --------| ------|-----| ----|-----|
+| Weekend | Vebinar |Seminar| Weekend| Vebinar| Seminar| Weekend|
+
